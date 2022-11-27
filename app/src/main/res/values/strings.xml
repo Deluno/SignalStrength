@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Signal Strength</string>
+    <string name="mapping">Mapping</string>
+    <string name="mac">MAC</string>
+    <string name="add_mac">Add MAC</string>
+    <string name="users">Users</string>
+    <string name="mac_address">MAC Address</string>
+    <string name="edit_mac">Edit MAC</string>
+</resources>
